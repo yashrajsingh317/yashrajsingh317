@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/yashrajsingh317/yashrajsingh317/blob/main/2nd-gif.gif)
+![Design and Development](https://github.com/yashrajsingh317/yashrajsingh317/blob/main/cloud-developer.jpeg)
 <h1 align="center">Hi , I'm Yash Raj Singh</h1>
 <h3 align="center">A passionate Cloud developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
